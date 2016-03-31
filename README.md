@@ -15,7 +15,7 @@ b. write some script to dump photos from such answers. this is MUCH easier, just
 
 b. 写一个脚本把那些知乎钓鱼贴扒个干净，遇到照片就下下来，当然也可以把网页按答主分成小块，然后根据答主的性别来判断要不要拖照片下来。这个我还是比较在行的。
 
-c. is quora like this? i don't konw and i don't fuckin' care, because foreign short haired girls with glasses are not adorable enough. chinese short haired girls with glasses kick ass. 
+c. is quora like this? i don't konw and i don't fuckin' care, because foreign short haired girls with glasses are not adorable enough for me. chinese short haired girls with glasses kick ass. 
 
 c. quora也是这个德性？这个我不清楚也不想清楚，国外的短发眼镜妹对我来说不够萌。还是国内的萌。
 
