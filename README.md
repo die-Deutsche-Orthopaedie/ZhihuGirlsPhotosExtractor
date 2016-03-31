@@ -1,7 +1,7 @@
 # ZhihuGirlsPhotosExtractor
-too many naive girls post their hq pics just to answer stupid zhihu questions like [this](https://www.zhihu.com/question/31159026/answer/69731899) and [this](https://www.zhihu.com/question/37878656/answer/73972554). and [THIS](https://www.zhihu.com/question/39863528/answer/83490529) link is the top 100 featured victims of such zhihu-fishings. 
+too many naive girls post their hq pics just to answer stupid zhihu questions like [this](https://www.zhihu.com/question/31159026/answer/69731899) and [this](https://www.zhihu.com/question/37878656/answer/73972554). and [THIS](https://www.zhihu.com/question/39863528/answer/83490529) link is the top 100 featured victims of such zhihu-fishings. [THIS](https://www.zhihu.com/collection/26815754) link is a bigger collection.  
 
-一堆知乎萌妹纸为了回答“xxx是一种怎样的体验”类问题就把自己的照片po了上去。像[这样](https://www.zhihu.com/question/31159026/answer/69731899)，还有[这样](https://www.zhihu.com/question/37878656/answer/73972554)。[这个](https://www.zhihu.com/question/39863528/answer/83490529)链接是一个百鱼大榜单，里面有几条我喜欢的短发鱼和几条我喜欢的眼镜鱼。目前还没有发现短发眼镜鱼。
+一堆知乎萌妹纸为了回答“xxx是一种怎样的体验”类问题就把自己的照片po了上去。像[这样](https://www.zhihu.com/question/31159026/answer/69731899)，还有[这样](https://www.zhihu.com/question/37878656/answer/73972554)。[这个](https://www.zhihu.com/question/39863528/answer/83490529)链接是一个百鱼大榜单，里面有几条我喜欢的短发鱼和几条我喜欢的眼镜鱼。目前还没有发现短发眼镜鱼（不对，有一条，在[这儿](https://www.zhihu.com/question/30671166/answer/81484596)，不过好像怀孕了，管它呢只要是短发眼镜妹就是外星人我也不拒）。[这个](https://www.zhihu.com/collection/26815754)链接是个更大的知乎钓鱼（zhaopian）合集。
 
 and that inspires me of two things: 
 
